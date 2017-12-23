@@ -1,0 +1,27 @@
+/*
+ Localizable.strings
+ Copyright © 2017 Detroit Block Works. All rights reserved.
+ */
+
+LoginViewController.Email = "Email";
+LoginViewController.Password = "Password";
+LoginViewController.Login = "Login";
+LoginViewController.ShowPassword = "Show Password";
+LoginViewController.HidePassword = "Hide Password";
+
+RootViewController.Issues = "Issues";
+RootViewController.NewIssue.Accessibility = "New Issue";
+
+NewIssueTypeViewController.IssueType = "Issue Type";
+
+NewIssueDetailViewController.Required.Formatter = "%@ %@";
+NewIssueDetailViewController.Required = "[Required]";
+NewIssueDetailViewController.Submit = "Submit";
+NewIssueDetailViewController.AddMedia = "Add Picture or Video";
+
+ImagePicker.TakePicture = "Take Picture";
+ImagePicker.TakeVideo = "Take Video";
+ImagePicker.PhotoLibrary = "Photo Library";
+ImagePicker.VideoLibrary = "Video Library";
+
+DataStore.ManagedModelNotFound = "Unable to load application data.";

@@ -1,0 +1,3 @@
+[submodule "SeeClickFix"]
+	path = SeeClickFix
+	url = git@github.com:rustle/SeeClickFix.git
